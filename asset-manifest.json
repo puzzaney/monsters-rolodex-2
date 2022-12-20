@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mosters-rolodex-2/static/css/main.d25435c8.css",
+    "main.js": "/mosters-rolodex-2/static/js/main.caf5230b.js",
+    "index.html": "/mosters-rolodex-2/index.html",
+    "main.d25435c8.css.map": "/mosters-rolodex-2/static/css/main.d25435c8.css.map",
+    "main.caf5230b.js.map": "/mosters-rolodex-2/static/js/main.caf5230b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d25435c8.css",
+    "static/js/main.caf5230b.js"
+  ]
+}
